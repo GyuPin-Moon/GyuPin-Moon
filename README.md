@@ -15,9 +15,12 @@
   <img src="https://img.shields.io/badge/-git-ffffff?logo=git"/>&nbsp
   <img src="https://img.shields.io/badge/-Docker-ffffff?logo=Docker"/>&nbsp
   <img src="https://img.shields.io/badge/-jupyter-ffffff?logo=jupyter"/>&nbsp
+  <br>
+  <br>
+  <br>
 </p>
 
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=GyuPin-Moon&show_icons=true)](https://github-readme-stats.vercel.app/api?username=GyuPin-Moon)
 
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=GyuPin-Moon&show_icons=true)](https://github-readme-stats.vercel.app/api?username=GyuPin-Moon)
 
 ![wave](https://capsule-render.vercel.app/api?section=footer&type=wave&color=timeGradient&height=150)
